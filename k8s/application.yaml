@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:patrice3456700/argocd.git
+    repoURL: git@github.com:patrice3456700/infra.git
     targetRevision: master
     path: k8s
   destination:
