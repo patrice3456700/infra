@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: patrice3456/chap19-node:04d665e
+          image: patrice3456/chap19-node:023ab60
           ports:
             - containerPort: 80
           env:
