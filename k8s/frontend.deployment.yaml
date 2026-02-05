@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: patrice3456/projet-node:latest
+          image: patrice3456/chap19-front:latest
           ports:
             - containerPort: 80
           volumeMounts:
